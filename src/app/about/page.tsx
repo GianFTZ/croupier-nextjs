@@ -17,7 +17,6 @@ import {
   PopoverTrigger,
 } from "@/components/ui/popover"
 
-
 export default function Page() {
   return (
     <div className='flex h-screen w-full flex-col  gap-20 py-12 px-12'>

@@ -28,8 +28,6 @@ import { Agent } from "@/domain/entities/agent"
 import { loadAdsFromBusinessId } from "@/app/ads/actions"
 import { AD } from "@/domain/entities/ad"
 
-
-
 export function AdDataTable<T>({columns}: {
   columns: ColumnDef<T>[]
 }) {
